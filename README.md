@@ -115,10 +115,19 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 
 ### Lenguaje de programación
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
+Todo el contenido de los talleres brindados durante el evento se desarrolla en el lenguajde de programación Python. Generalmente, es necesario el uso de librerías como 
+* [NumPy](https://numpy.org/)
+* [Matplotlib](https://matplotlib.org/)
+* [Pandas](https://pandas.pydata.org/)
+* [SciPy](https://scipy.org/)
+
+Si usa el contenido de los talleres desde Google Collab, puede correr todo sin previa instalación. De querer usarlo en otro editor de código como Spyder o VS Code, es necesario tener una instalación apropiada de un ambiente de programación con Python y sus librerías. A continuación, se presenta un breve tutorial de instalación rápida y sencilla.
+
+* Visitar la página de descargas de [Anaconda](https://www.anaconda.com/download/success), que sirve como gestor de paquetes y entornos de programación (tanto para Python como para R). Descargar la última versión.
+* Visitar la página oficial de [Python](https://www.python.org/downloads/) y descargar la última versión disponible para tu sistema operativo (Windows, Linux/Unix, macOS, etc.).
+* Abrir la aplicación de Anaconda/Miniconda y descargar Spyder o VS Code (el editor de código que usarás) desde la sección "Home".
+* 
+
 
 
 
