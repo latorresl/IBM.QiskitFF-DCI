@@ -1,4 +1,3 @@
-# IBM Qiskit Fall Fest - DCI
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
 *** that would make this better, please fork the repo and create a pull request
@@ -21,33 +20,20 @@
 <!-- [![Issues][issues-shield]][issues-url]  -->
 <!-- [![LinkedIn][linkedin-shield]][linkedin-url]  -->
 
+# IBM Qiskit Fall Fest – DCI 🎉
 
-
-<!-- PROJECT LOGO -->
-<br />
 <p align="center">
-  <a href="https://www.dscience.ugto.mx/index.php/dscience">
-    <img src="img/dscience.png" alt="Logo" width="170" height="100">
+  <a href="https://www.ibm.com/mx-es">
+    <img src="img/ibm.jpg" alt="Logo IBM" width="200" height="100">
   </a>
-
-  <h3 align="center">Revista DsCIence</h3>
-
-  <p align="center">
-    El repositorio oficial del evento de programación de la revista DsCIence, para desarrolladores y estudiantes.
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Ir a los documentos »</strong></a>
-    <br />
-    <br />
-    <a href="https://www.dscience.ugto.mx/index.php/dscience">Ver Página Oficial</a>
-    <!--·
-     <a href="https://github.com/othneildrew/Best-README-Template/issues">Workflow</a>
-    · -->
-    <!--<a href="https://dsciencejournal.netlify.app/redes">Redes Sociales</a>-->
-  </p>
+  <a href="https://www.dscience.ugto.mx/index.php/dscience">
+    <img src="img/dscience.png" alt="Logo DsCIence" width="170" height="100">
+  </a>
 </p>
 
 <p align="center">
-  Todo sobre el nuevo evento de programación y cómputo cuántico de la División de Ciencias e Ingenierías en un solo lugar. Encuentra aquí el material de los talleres así como documentación adicional.
+  <b>Celebrate the century-long history of quantum science and innovation</b><br>
+  Evento organizado por la <b>Revista DsCIence</b> en la División de Ciencias e Ingenierías (DCI), Universidad de Guanajuato, en colaboración con IBM Qiskit Fall Fest.
 </p>
 
 La revista DsCIence publica semestralmente, tratamos una amplia variedad de temas científicos y damos a conocer el trabajo de investigación de estudiantes y profesores-investigadores de la División. Para más infromación, pueden visitar nuestras redes sociales:
@@ -56,130 +42,72 @@ La revista DsCIence publica semestralmente, tratamos una amplia variedad de tema
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/people/Revista-DSCIence/100091361100082/)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCgYe6UvFxs3nmXxycLzA3Mg)
 
-Si busca colaborar con nosotros de manera externa a la institución, o leer nuestras entregas, por favor revise nuestra página oficial.
-</p>
-
-
+Si busca colaborar con nosotros de manera externa a la institución, o leer nuestras entregas, por favor revise nuestra <a href="https://www.dscience.ugto.mx/index.php/dscience">Página Oficial</a>.
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Tabla de Contenidos</summary>
   <ol>
-    <li>
-      <a href="#about-the-project">Sobre el evento</a>
-      <ul>
-        <li><a href="#built-with">Lenguaje de programación</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">¿Cómo empiezo?</a>
-      <ul>
-        <li><a href="#prerequisites">Prerrequisitos</a></li>
-        <li><a href="#installation">Instalación de Python</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">¿Cómo usar el repositorio?</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contribuciones</a></li>
-    <li><a href="#license">Licencia</a></li>
-    <li><a href="#contact">Contacto</a></li>
-    <li><a href="#acknowledgements">Agradecimientos</a></li>
+    <li>Información General</li>
+    <ul>Cronograma del Evento</ul>
+    <li>Cómo Empezar</li>
+    <li>Instalación y Configuración Rápida</li>
+    <ul>Usar Google Collab</ul>
+    <ul>Entorno Local</ul>
+    <li>¿Cómo usar el repositorio?</li>
+    <li>Contribuciones</li>
+    <li>Licencia</li>
+    <li>Contacto</li>
+    <li>Agradecimientos</li>
   </ol>
 </details>
 
+---
 
+## 📅 Información General
 
-<!-- ABOUT THE PROJECT -->
-## Sobre el evento
+- **Fecha:** Sábado 25 de octubre  
+- **Horario:** 9:30 a.m. – 6:30 p.m.  
+- **Lugar:** División de Ciencias e Ingenierías – Universidad de Guanajuato  
 
-<p align="center">
-  <a href="https://www.ibm.com/mx-es">
-    <img src="img/ibm.jpg" alt="Logo" width="200" height="100">
-  </a>
-  
-  <a href="https://www.dscience.ugto.mx/index.php/dscience">
-    <img src="img/dscience.png" alt="Logo" width="170" height="100">
-  </a>
-</p>
-  
-Este evento está organizado por la revista **DsCIence** de la DCI, Universidad de Guanajuato en conjunto con el evento internacional IBM Qiskit Fall Fest que se celebra anualmente. Su propósito es el de acercar a la comunidad al mundo de la programación diseminando las novedosas tecnologías del cómputo cuántico y las técnicas del análisis de datos (Machine Learning, IA, etc.).
+Este repositorio contiene:
+- Material oficial del evento (códigos, notebooks, datasets, presentaciones).
+- Documentación y guías de instalación para los talleres.
+- Información general sobre conferencias y actividades.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+### Cronograma del Evento
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+---
 
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
+## 📚 Cómo Empezar
 
-### Lenguaje de programación
+Los talleres del IBM Qiskit Fall Fest – DCI utilizan **Python** como lenguaje principal, junto con librerías y frameworks como:
 
-Todo el contenido de los talleres brindados durante el evento se desarrolla en el lenguajde de programación Python. Generalmente, es necesario el uso de librerías como 
-* [NumPy](https://numpy.org/)
-* [Matplotlib](https://matplotlib.org/)
-* [Pandas](https://pandas.pydata.org/)
-* [SciPy](https://scipy.org/)
+- [NumPy](https://numpy.org/)
+- [Matplotlib](https://matplotlib.org/)
+- [Pandas](https://pandas.pydata.org/)
+- [SciPy](https://scipy.org/)
+- [Qiskit](https://qiskit.org/)
 
-Si usa el contenido de los talleres desde Google Collab, puede correr todo sin previa instalación. De querer usarlo en otro editor de código como Spyder o VS Code, es necesario tener una instalación apropiada de un ambiente de programación con Python y sus librerías. A continuación, se presenta un breve tutorial de instalación rápida y sencilla.
+---
 
-* Visitar la página de descargas de [Anaconda](https://www.anaconda.com/download/success), que sirve como gestor de paquetes y entornos de programación (tanto para Python como para R). Descargar la última versión.
-* Visitar la página oficial de [Python](https://www.python.org/downloads/) y descargar la última versión disponible para tu sistema operativo (Windows, Linux/Unix, macOS, etc.).
-* Abrir la aplicación de Anaconda/Miniconda y descargar Spyder o VS Code (el editor de código que usarás) desde la sección "Home".
-* 
+## 🚀 Instalación y Configuración Rápida
 
+### Opción 1 – Google Colab
+No requiere instalación local. Solo abre el notebook y ejecútalo en tu navegador.
 
+### Opción 2 – Entorno local
+1. **Instalar Anaconda** (recomendado) desde [su página oficial](https://www.anaconda.com/download/success).
+2. Instalar Python (si no usas Anaconda) desde [python.org](https://www.python.org/downloads/).
+3. Crear y activar un entorno:
+   ```bash
+   conda create -n qiskit-fallfest python=3.10
+   conda activate qiskit-fallfest
 
-
-<!-- GETTING STARTED -->
-## ¿Cómo empiezo?
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
-### Prerrequisitos
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Instalación de Python
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```JS
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
-
-
-<!-- USAGE EXAMPLES -->
+<!-- PARA QUÉ SE HIZO EL REPO -->
 ## ¿Cómo usar el repositorio?
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-
-
-<!-- ROADMAP -->
-<!-- ## Roadmap
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues). -->
-
-
-
-<!-- CONTRIBUTING -->
 ## Contribuciones
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -191,8 +119,6 @@ Contributions are what make the open source community such an amazing place to l
 5. Open a Pull Request
 
 
-
-<!-- LICENSE -->
 ## Licencia
 
 Código distribuido bajo la licencia MIT. Para más información ver el archivo `LICENSE`.
@@ -219,6 +145,19 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
+---
+
+Licencia MIT
+
+Copyright (c) 2025 Revista DsCIence
+
+Por la presente, se concede permiso gratuito a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software") para utilizarlo sin restricciones, incluyendo, entre otros, los derechos de uso, copia, modificación, fusión, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir que las personas a quienes se les proporciona el Software lo hagan, sujeto a las siguientes condiciones:
+
+El aviso de derechos de autor anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
+
+EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUYENDO, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIABILIDAD, IDONEIDAD PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN. EN NINGÚN CASO LOS AUTORES O TITULARES DE LOS DERECHOS DE AUTOR SERÁN RESPONSABLES DE NINGUNA RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN CONTRACTUAL, EXTRACONTRACTUAL O DE OTRO TIPO, QUE SURJA DE, A PARTIR DE O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS OPERACIONES EN EL SOFTWARE.
+
+
 
 <!-- CONTACT -->
 <!-- ## Contacto
@@ -230,35 +169,12 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 
 
 <!-- ACKNOWLEDGEMENTS -->
-## Agradecimientos
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Img Shields](https://shields.io)
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Pages](https://pages.github.com)
-* [Animate.css](https://daneden.github.io/animate.css)
-* [Loaders.css](https://connoratherton.com/loaders)
-* [Slick Carousel](https://kenwheeler.github.io/slick)
-* [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
-* [Sticky Kit](http://leafo.net/sticky-kit)
-* [JVectorMap](http://jvectormap.com)
-* [Font Awesome](https://fontawesome.com)
+## 🙌 Agradecimientos
 
+Agradecemos a:
 
+  IBM por organizar el evento mundial IBM Qiskit Fall Fest y por brindar apoyo económico a la División de Ciencias e Ingenierías.
 
+  Conferencistas, talleristas, organizadores, voluntarios y asistentes que hacen posible este evento.
 
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
+  La comunidad académica de la DCI – Universidad de Guanajuato.
