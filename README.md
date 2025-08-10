@@ -36,7 +36,7 @@
   Evento organizado por la <b>Revista DsCIence</b> en la División de Ciencias e Ingenierías (DCI), Universidad de Guanajuato, en colaboración con IBM Qiskit Fall Fest.
 </p>
 
-La revista DsCIence publica semestralmente, tratamos una amplia variedad de temas científicos y damos a conocer el trabajo de investigación de estudiantes y profesores-investigadores de la División. Para más infromación, pueden visitar nuestras redes sociales:
+La revista DsCIence publica semestralmente, tratamos una amplia variedad de temas científicos y damos a conocer el trabajo de investigación de estudiantes y profesores-investigadores de la División. Para más información, pueden visitar nuestras redes sociales:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/revista_dscience/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/people/Revista-DSCIence/100091361100082/)
@@ -57,7 +57,6 @@ Si busca colaborar con nosotros de manera externa a la institución, o leer nues
     <li>¿Cómo usar el repositorio?</li>
     <li>Contribuciones</li>
     <li>Licencia</li>
-    <li>Contacto</li>
     <li>Agradecimientos</li>
   </ol>
 </details>
