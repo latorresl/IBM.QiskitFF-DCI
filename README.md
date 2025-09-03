@@ -54,8 +54,6 @@ Si busca colaborar con nosotros de manera externa a la institución, o leer nues
     <li>Instalación y Configuración Rápida</li>
     <ul>Usar Google Collab</ul>
     <ul>Entorno Local</ul>
-    <li>¿Cómo usar el repositorio?</li>
-    <li>Contribuciones</li>
     <li>Licencia</li>
     <li>Agradecimientos</li>
   </ol>
@@ -102,21 +100,6 @@ No requiere instalación local. Solo abre el notebook y ejecútalo en tu navegad
    ```bash
    conda create -n qiskit-fallfest python=3.10
    conda activate qiskit-fallfest
-
-<!-- PARA QUÉ SE HIZO EL REPO -->
-## ¿Cómo usar el repositorio?
-
-
-## Contribuciones
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
 
 ## Licencia
 
